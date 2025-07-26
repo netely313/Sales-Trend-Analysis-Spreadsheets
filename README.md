@@ -2,33 +2,33 @@
 
 ## 📊 Overview 
 
-This comprehensive analysis addresses a key stakeholder question: **What is the sales trend by month and how does it depend on the sales method, reason, country, and sellers?**
+This comprehensive analysis addresses a key stakeholder question: **What is the sales trend?**
 
-Spreadsheets was utilized as the primary data analytical tool to provide data-driven insights and actionable recommendations.
+Spreadsheets were utilised as the primary data analytical tool to provide data-driven insights and actionable recommendations.
 
 ## 🎯 Research Questions
 
 To provide a complete answer, the analysis was structured around six key questions:
 
-1. **What kind of monthly sales volume trend exists?**
-2. **What is the monthly sales trend by sales method (online vs. offline)?**
-3. **In which countries is sales volume higher?**
-4. **What is the main reason driving sales?**
-5. **Is there a relationship between delivery time and sales volume?**
-6. **Which sellers occupy leading positions in sales and sales volume?**
+1. **Monthly sales volume trend**
+2. **Monthly sales trend by sales method?**
+3. **Monthly sales trend by countries?**
+4. **Main reason driving sales?**
+5. **Relationship between delivery time and sales volume?**
+6. **Best seller?**
 
 ## 🔍 Key Findings
 
 The analysis revealed the following insights about monthly sales trends:
 
 ### Sales Growth Pattern
-- **Steady growth** observed from 2001 to 2003
+- **Steady growth** 
 - Orders are primarily made **online**, but **offline orders generate higher profits** in the second half of the year
 
 ### Geographic Distribution
 - **United States** leads in order volume
 
-### Customer Behavior
+### Customer Behaviour
 - Primary purchase drivers: **price and promotions**
 
 ### Delivery Performance
@@ -50,7 +50,7 @@ Based on the analysis findings, we recommend:
 - Lower pricing strategy for online products
 - Product type differences (large/expensive items sold offline vs. small/cheaper items online)
 
-**Action**: Analyze product categories by sales channel to identify pricing optimization opportunities
+**Action**: Analyse product categories by sales channel to identify pricing optimisation opportunities
 
 ### 2. Explore European Market Potential
 **Issue**: Lower sales volume in Europe compared to other regions
@@ -58,12 +58,12 @@ Based on the analysis findings, we recommend:
 **Investigation areas**:
 - Regional staffing levels comparison
 - Market-specific factors affecting sales performance
-- Localization opportunities
+- Localisation opportunities
 
 ## 🛠️ Methodology
 
 ### Data Processing
-The analysis utilized a database containing **4 related tables**. A comprehensive merge table was created using advanced Google Sheets formulas:
+The analysis utilised a database containing **4 related tables**. A comprehensive merge table was created using advanced Google Sheets formulas:
 
 - `ARRAYFORMULA` - for bulk operations
 - `DAYDIFF` - for delivery time calculations  
@@ -73,7 +73,7 @@ The analysis utilized a database containing **4 related tables**. A comprehensiv
 ### Analysis Approach
 Following data preparation, **pivot tables** were employed for:
 - Descriptive statistical analysis
-- Data visualization and chart creation
+- Data visualisation and chart creation
 - Trend identification
 
 ## 📈 Results & Visualizations
@@ -138,4 +138,4 @@ Following data preparation, **pivot tables** were employed for:
 
 ---
 
-*Analysis conducted using Spreadsheets | Data period: 2001-2003*
+*Analysis conducted using Spreadsheets*
