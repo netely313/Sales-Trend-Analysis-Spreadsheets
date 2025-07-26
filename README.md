@@ -11,11 +11,11 @@ Spreadsheets were utilised as the primary data analytical tool to provide data-d
 To provide a complete answer, the analysis was structured around six key questions:
 
 1. **Monthly sales volume trend**
-2. **Monthly sales trend by sales method?**
-3. **Monthly sales trend by countries?**
-4. **Main reason driving sales?**
-5. **Relationship between delivery time and sales volume?**
-6. **Best seller?**
+2. **Monthly sales trend by sales method**
+3. **Monthly sales trend by countries**
+4. **Main reason driving sales**
+5. **Relationship between delivery time and sales volume**
+6. **Best seller**
 
 ## 🔍 Key Findings
 
