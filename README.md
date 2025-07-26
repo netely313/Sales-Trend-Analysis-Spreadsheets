@@ -81,33 +81,41 @@ Following data preparation, **pivot tables** were employed for:
 ### 1. Monthly Sales Volume Trend
 
 ![alt text](<Monthly Sales Performance.png>)
+
 *Overall monthly sales performance showing growth trajectory*
 
 ![alt text](<SUM of TotalDue .png>)
+
 *Total revenue trends over the analysis period*
 
 ### 2. Sales Method Analysis (Online vs. Offline)
 
 ![alt text](<Monthly Sales Performance_ Online and Offline Orders .png>)
+
 *Comparison of order volumes by sales channel*
 
 ![alt text](<Sum of Total Due_ Online and Offline Orders.png>)
+
 *Revenue comparison between online and offline channels*
 
 ### 3. Geographic Sales Distribution
 
 ![alt text](<Proportions of Number of Orders According to Countries.png>)
+
 *Market share distribution across countries*
 
 ![alt text](<Proportions of Number of Orders during the Months According to Countries.png>)
+
 *Seasonal patterns by geographic region*
 
 ![alt text](<Proportion of Number of Orders in Different Countries According to Type of Order.png>)
+
 *Sales channel preferences by country*
 
 ### 4. Sales Reason Analysis
 
 ![alt text](<Proportion of Number of Orders During the Months According to Type of Reason Sale.png>)
+
 *Primary drivers of customer purchases by month*
 
 ### 5. Delivery Performance
@@ -118,6 +126,7 @@ Following data preparation, **pivot tables** were employed for:
 
 ### 6. Sales Team Performance
 ![alt text](<Proportion of Number of Orders According to Salesperson ID.png>)
+
 *Individual salesperson contribution to total orders*
 
 ## 📋 Next Steps
